@@ -5,7 +5,7 @@ Evaluation data and metric computation code for the VisibleFixture-60 benchmark 
 
 ## Data
 
-Download the dataset from: `s3://suchatur-results/InteractiveRelighting/VisibleFixture60/`
+Download the dataset from: `s3://tokenlight-demo-test/visiblefixture60/`
 
 ```
 VisibleFixture60/
